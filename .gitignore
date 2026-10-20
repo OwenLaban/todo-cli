@@ -1,0 +1,9 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data tugas (dibuat saat program dijalankan)
+tasks.json
